@@ -1,0 +1,131 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.rose{
+    width: 300px;
+    height: 350px;
+}
+.first-banner{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+    padding: 100px;
+    padding-bottom: 0px;
+    background-color:rgb(244, 233, 234);
+
+}
+.btn{
+    padding: 15px 15px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    
+}
+.writers-ss{
+    text-align: center;
+    padding-top: 100px;
+    
+}
+.td{
+    width: 150px;
+    height: 200px;
+    border-top-left-radius:90px ;
+    border-top-right-radius: 90px;
+    background-color:rgb(249, 236, 238);
+    padding: 20px;
+
+}
+.tm{
+    width: 150px;
+    height: 200px;
+    border-top-left-radius:90px ;
+    border-top-right-radius: 90px;
+    
+    background-color:rgb(207, 235, 244);
+    padding: 20px;
+
+}
+.tc{
+    width: 150px;
+    height: 200px;
+    border-top-left-radius:90px ;
+    border-top-right-radius: 90px;
+    background-color:rgb(227, 237, 221);
+    padding: 20px;
+
+}
+.optional-item{
+    display: flex;
+    padding-top: 30px;
+    padding-right: 200px;
+    padding-left: 150px;
+    padding-bottom: 90px;
+    text-align: center;
+    gap: 100px;
+}
+.bar-container{
+    display: flex;
+    background-color:black ;
+    color: yellow;
+    gap: 70px;
+    padding: 100px;
+}
+.dev-resource{
+    display: flex;
+    gap: 10px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 70px;
+    
+   
+}
+.blog-pic{
+    width: 200px;
+    
+
+}
+.subtanvir{
+    width:500px ;
+    height: auto;
+    padding: 100px;
+    margin: auto;
+    background-image: url('./Assets/Rectangle9.png');
+}
+
+
+.tan-vir{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    
+}
+.last-game{
+    background-color: black;
+    color: white;
+    padding: 120px;
+    text-align: center;
+    margin-top: 120px;
+}
+.btm{
+  
+    display: flex;
+    
+    padding: 10px;
+    color: aliceblue;
+}
+.btm{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-left{
+    margin-left: 20px;
+    background-color: red;
+    color: white;
+    padding: 8px 4px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
